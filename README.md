@@ -1,5 +1,7 @@
 # codebasetxt
 
+[!codebasetxt logo 90s themed retro neon](https://github.com/dbredvick/codebasetxt/blob/main/wordart.png)
+
 **Tired of copying and pasting code back and forth to use o1 Pro**?
 
 Generate a `codebase.txt` with all the relevant code from your project that:
