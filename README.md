@@ -28,7 +28,3 @@ codebasetxt
 ```
 
 This will generate a `codebase.txt` containing all non-ignored files (excluding images, archives, certain file types, etc.).
-
-## License
-
-ISC © 2025 [Drew Bredvick](https://drew.tech)
