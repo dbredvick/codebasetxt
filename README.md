@@ -1,4 +1,4 @@
-# Codebasetxt
+# codebasetxt
 
 **Tired of copying and pasting code back and forth to use o1 Pro**?
 
