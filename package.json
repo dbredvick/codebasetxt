@@ -3,18 +3,18 @@
 	"version": "1.0.0",
 	"description": "Generate a codebase.txt from your project by respecting .gitignore and skipping certain file types.",
 	"main": "bin/index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dbredvick/codebasetxt.git"
+	},
+	"homepage": "https://github.com/dbredvick/codebasetxt",
 	"bin": {
 		"codebasetxt": "./bin/index.js"
 	},
 	"scripts": {
 		"test": "echo \"No tests yet\""
 	},
-	"keywords": [
-		"codebase",
-		"gitignore",
-		"cli",
-		"llm"
-	],
+	"keywords": ["codebase", "gitignore", "cli", "llm"],
 	"author": "Drew Bredvick",
 	"license": "ISC",
 	"dependencies": {
