@@ -1,0 +1,8 @@
+node_modules
+codebase.txt
+.git
+.gitignore
+.nodeignore
+.DS_Store
+.env
+.env.local

@@ -1,0 +1,23 @@
+{
+	"name": "codebasetxt",
+	"version": "1.0.0",
+	"description": "Generate a codebase.txt from your project by respecting .gitignore and skipping certain file types.",
+	"main": "bin/index.js",
+	"bin": {
+		"codebasetxt": "./bin/index.js"
+	},
+	"scripts": {
+		"test": "echo \"No tests yet\""
+	},
+	"keywords": [
+		"codebase",
+		"gitignore",
+		"cli",
+		"llm"
+	],
+	"author": "Drew Bredvick",
+	"license": "ISC",
+	"dependencies": {
+		"ignore": "^7.0.0"
+	}
+}
