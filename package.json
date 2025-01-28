@@ -1,6 +1,6 @@
 {
 	"name": "codebasetxt",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Generate a codebase.txt from your project by respecting .gitignore and skipping certain file types.",
 	"main": "bin/index.js",
 	"repository": {
