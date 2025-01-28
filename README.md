@@ -1,6 +1,6 @@
 # codebasetxt
 
-![codebasetxt logo 90s themed retro neon](/wordart.png)
+![codebasetxt logo 90s themed retro neon](/wordart-final.png)
 
 **Tired of copying and pasting code back and forth to use o1 Pro**?
 
